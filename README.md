@@ -1,6 +1,6 @@
 # Technical Writer Portfolio
 
-This repository hosts a public technical writing portfolio for Chelsie Williams (aka Nana Adu‑Abankro). It is designed for GitHub Pages.
+This repository hosts a public technical writing portfolio for Chelsie Williams.
 
 ## What's inside
 - `index.html` – the public portfolio homepage
